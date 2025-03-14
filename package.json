@@ -1,6 +1,6 @@
 {
   "name": "obsidian-chartsview-plugin",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Data visualization solution in Obsidian based on Ant Design Charts.",
   "main": "main.js",
   "scripts": {
@@ -13,6 +13,7 @@
     "obsidian-plugin"
   ],
   "author": "caronchen",
+  "contributors": ["texastoland"],
   "license": "MIT",
   "devDependencies": {
     "@types/js-yaml": "^4.0.5",
@@ -39,5 +40,5 @@
     "react": "npm:@preact/compat@^17.0.2",
     "react-dom": "npm:@preact/compat@^17.0.2"
   },
-  "repository": "git@github.com:caronchen/obsidian-chartsview-plugin.git"
+  "repository": "git@github.com:texastoland/obsidian-chartsview-plugin.git"
 }
