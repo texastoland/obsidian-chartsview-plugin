@@ -4,6 +4,15 @@
 
 This is a data visualization plugin for [Obsidian](https://obsidian.md), based on [Ant Design Charts](https://charts.ant.design/). Support plots and graphs.
 
+> [!WARNING]
+> This fork fixes Dataview integration (caronchen#67) until merged (caronchen#68). It won't be actively maintained.
+>
+> ## Installation
+>
+> 1. Install [BRAT](https://obsidian.md/plugins?id=obsidian42-brat)
+> 2. Add this plugin repo: https://github.com/texastoland/obsidian-chartsview-plugin
+> 3. Run `Charts View: Insert Template > Dataviewjs` to get started
+
 - [Obsidian Charts View Plugin](#obsidian-charts-view-plugin)
   - [Chart Templates](#chart-templates)
     - [Word Count](#word-count)
